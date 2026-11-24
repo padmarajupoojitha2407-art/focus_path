@@ -1,5 +1,3 @@
-// Progress is saved in this browser only (localStorage).
-// shortcut: per-browser progress, upgrade to a database (e.g. AWS DynamoDB) when users log in.
 const KEY = "focuspath-done";
 
 function getDone() {
