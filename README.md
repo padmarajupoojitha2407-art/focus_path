@@ -23,7 +23,7 @@ FocusPath organizes the best videos on a specific topic into one clean page:
 HTML · CSS · JavaScript · YouTube embeds · ElevenLabs (planned) · AWS (planned)
 
 ## Team <Team Name>
-- <Lathik (Lead)>
-- <Poojita>
-- <Tharun>
-- <Danial>
+- Lathik (Lead)
+- Poojitha
+- Tharun
+- Danial
