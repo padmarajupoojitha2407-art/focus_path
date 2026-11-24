@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FocusPath · Learn without distractions</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site">
+    <a class="logo" href="index.html">🎯 FocusPath</a>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <h1>Learn job skills from YouTube, <span>without the distractions.</span></h1>
+      <p>The best free videos, organized topic by topic in the right order. Just the lesson, nothing else.</p>
+      <ul class="hidden-list" aria-label="What FocusPath hides">
+        <li>No Shorts</li><li>No recommendations</li><li>No comments</li><li>No autoplay</li>
+      </ul>
+    </section>
+
+    <section>
+      <div class="path-head">
+        <h2>Your path: <span id="path-title"></span></h2>
+        <div id="overall" class="overall"></div>
+      </div>
+      <div id="topics" class="grid"></div>
+    </section>
+  </main>
+
+  <footer class="site">Built for wHACKiest 2026 · Track 4: UnlockED</footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+  <script>renderHome();</script>
+</body>
+</html>
