@@ -1,5 +1,3 @@
-// All learning content lives here. To add a topic or video, edit this list only.
-// "id" is the part after "watch?v=" in a YouTube link.
 const PATH = {
   title: "Web Developer",
   topics: [
