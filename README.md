@@ -22,10 +22,6 @@ FocusPath organizes the best videos on a specific topic into one clean page:
 ## Tech stack
 HTML · CSS · JavaScript · YouTube embeds · ElevenLabs (planned) · AWS (planned)
 
-## How to run
-1. Download or clone this repo
-2. Open `index.html` in any browser — no installation needed
-
 ## Team <Team Name>
 - <Lathik (Lead)>
 - <Poojita>
